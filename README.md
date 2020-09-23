@@ -3,6 +3,7 @@
 Modeling by KeliumWorks
 
 ![Connector](images/gx16.jpg?raw=true)
+![Connector](images/gx16k.jpg?raw=true)
 ![Fullcable](images/fullcable.jpg?raw=true)
 
 Consider using our keyboards with your keycap in your scene ;)

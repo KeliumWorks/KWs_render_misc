@@ -1,5 +1,9 @@
 # Render Misc. from KeliumWorks
 
+UPDATE Sept 25 2020:
+
+Added ImperfectLink's remodeled version with lower verts count (without reduce quality).
+
 Modeling by KeliumWorks
 
 ![Connector](images/gx16.jpg?raw=true)

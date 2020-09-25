@@ -1,6 +1,6 @@
 # Render Misc. from KeliumWorks
 
-**UPDATE Sept 25 2020:
+**UPDATE Sept 25 2020:**
 
 Added ImperfectLink's remodeled version with lower verts count (without reduce quality).
 

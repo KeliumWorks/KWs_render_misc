@@ -17,7 +17,12 @@ Added ImperfectLink's remodeled version of gx connector with lower verts count (
 ![Connector](images/gx16k.jpg?raw=true)
 ![Fullcable](images/fullcable.jpg?raw=true)
 
-Consider using our keyboards with your keycap in your scene ;)
+Consider using our keyboards with your keycaps in your scene ;)
+Our keyboard 3d model vailable here: https://github.com/KeliumWorks/Pillow65-3dmodel
+
+## Special thanks to:
+- ImperfectLink helping the conversion to get better model from parametric model.
+- Swishy from Keycap Designers Discord Server for advices.
 
 ---
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]

@@ -4,7 +4,8 @@
 
 Added ImperfectLink's remodeled version with lower verts count (without reduce quality).
 
-Modeling by KeliumWorks
+---
+*Modeling by KeliumWorks*
 
 ![Connector](images/gx16.jpg?raw=true)
 ![Connector](images/gx16k.jpg?raw=true)

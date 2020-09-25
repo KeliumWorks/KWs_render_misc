@@ -1,8 +1,14 @@
 # Render Misc. from KeliumWorks
 
+**UPDATE 2 Sept 25 2020:**
+
+Added keycap puller:
+
+![Puller](images/puller.jpg?raw=true)
+
 **UPDATE Sept 25 2020:**
 
-Added ImperfectLink's remodeled version with lower verts count (without reduce quality).
+Added ImperfectLink's remodeled version of gx connector with lower verts count (without reduce quality).
 
 ---
 *Modeling by KeliumWorks*
